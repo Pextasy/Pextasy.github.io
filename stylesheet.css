@@ -1,0 +1,14 @@
+body {
+    background-image: url("Plain-Coloured-Backgrounds-001.jpg");
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+.pagetitle {
+    color: white;
+    padding: 100px;
+    text-align: center;
+}
