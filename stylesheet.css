@@ -7,10 +7,26 @@ h1 {
     margin-left: 20px;
 }
 
+@font-face {
+    font-family: Lato-Bold;
+    src: url(Fonts/Lato-Bold.ttf);
+}
+
+.options {
+	padding: 100px;
+	text-align: center;
+}
+
 .pagetitle {
     color: white;
     padding: 100px;
     text-align: center;
-    font-family: Lato;
-    font-size: 40px
+    font-family: "Lato-Bold", Verdana;
+    font-size: 80px
+}
+
+.acctlink {
+	color: black;
+	padding: 30px;
+	font-size: 32px;
 }
